@@ -85,6 +85,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ActionParser.cpp" />
     <ClCompile Include="Actions.cpp" />
     <ClCompile Include="FileReader.cpp" />
     <ClCompile Include="FileWriter.cpp" />
@@ -95,6 +96,7 @@
     <ClCompile Include="ReplayReader.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ActionParser.h" />
     <ClInclude Include="Actions.h" />
     <ClInclude Include="FileReader.h" />
     <ClInclude Include="FileWriter.h" />

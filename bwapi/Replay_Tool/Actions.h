@@ -3,6 +3,7 @@
 #include "ReplayReader.h"
 #include <windows.h>
 
+
 void ParseActions(ReplayReader &fr, const char *pszFilename);
 
 namespace Actions
